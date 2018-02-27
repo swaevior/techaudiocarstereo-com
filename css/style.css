@@ -372,7 +372,7 @@ figcaption {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 75%;
 }
 
 figure.effect-bubba {
@@ -672,14 +672,14 @@ font-size: 11px;
 
 .btn-xl:hover, .btn-xl:focus, .btn-xl:active, .btn-xl.active, .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01;
+    background-color: #CA4B0F;
+    border-color: #F7921E;
 }
 
 .btn:hover, .btn:focus, .btn:active, .btn.active, .open .dropdown-toggle.btn {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01;
+    background-color: #CA4B0F;
+    border-color: #F7921E;
 }
 
 .btn {
@@ -700,14 +700,14 @@ font-size: 11px;
     -ms-user-select: none;
     user-select: none;
     background-image: none;
-    border: 1px solid transparent;
-    border-radius: 4px;
+    border: 3px solid transparent;
+    border-radius: 12px;
 }
 
 .btn-xl {
     color: #fff;
-     background-color: #726FB9;
-    border-color: #726FB9;
+     background-color: #F7921E;
+    border-color: #CA4B0F;
     font-family: "Robot",sans-serif;
     text-transform: uppercase;
     font-weight: 700;
