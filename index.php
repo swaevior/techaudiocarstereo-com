@@ -435,37 +435,55 @@
 						<p><i class="fa fa-clock-o"></i> <span class="day">Sunday: </span><span>Closed</span></p>
 					</div>
 					<div class="col-md-6">
-						<form name="sentMessage" id="contactForm" novalidate="">
-							<div class="row">
-								<div class="col-md-6">
-									<div class="form-group">
-										<input type="text" class="form-control" placeholder="Your Name *" id="name" required="" data-validation-required-message="Please enter your name.">
-										<p class="help-block text-danger"></p>
-									</div>
-								</div>
-								<div class="col-md-6">
-									<div class="form-group">
-										<input type="email" class="form-control" placeholder="Your Email *" id="email" required="" data-validation-required-message="Please enter your email address.">
-										<p class="help-block text-danger"></p>
-									</div>
-								</div>
+						<h2>Email Us</h2>
+					<?php
+
+					if (!isset($_POST["submit"]))
+					  {
+					  ?>
+					  <form method="post" action="<?php echo $_SERVER["PHP_SELF"];?>">
+					  <div class="row">
+							<div class="col-md-6">
+								Email:<br>
+								<input type="email" name="from"><br>
 							</div>
-							<div class="row">
-								<div class="col-md-12">
-									<div class="form-group">
-										<textarea class="form-control" placeholder="Your Message *" id="message" required="" data-validation-required-message="Please enter a message."></textarea>
-										<p class="help-block text-danger"></p>
-									</div>
-								</div>
-								<div class="clearfix"></div>
+							<div class="col-md-6">
+								Subject:<br>
+								<input type="text" name="subject"><br>
 							</div>
-							<div class="row">
-								<div class="col-lg-12 text-center">
-									<div id="success"></div>
-									<button type="submit" class="btn">Send Message</button>
-								</div>
-							</div>
-						</form>
+						</div>
+						<div class="row">
+							<div class="col-sm-12">
+					  Message:<br>
+						<textarea rows="5" cols="60" name="message"></textarea><br>
+					</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-12">
+					  <input type="submit" name="submit" value="Submit email!">
+					</div>
+					</div>
+					  </form>
+					  <?php
+					  }
+
+					else
+
+					  {
+
+					  if (isset($_POST["from"]))
+					    {
+					    $from = $_POST["from"]; // sender
+					    $subject = $_POST["subject"];
+					    $message = $_POST["message"];
+
+					    $message = wordwrap($message, 70);
+
+					    mail("jimsaudio@hotmail.com",$subject,$message,"From: $from\n");
+					    echo "Thank you for sending an email";
+					    }
+					  }
+					?>
 					</div>
 				</div>
 			</div>
