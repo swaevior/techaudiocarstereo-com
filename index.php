@@ -388,7 +388,7 @@
 								<h3>JIM COOPER</h3>
 								<div class="team-location">Grand Haven, Michigan</div>
 								<div class="team-position">Founder and Owner</div>
-								<p>Jim is the sole proprietor of Tech Audio. He started the shop while working full-time in manufacturing in Holland in the 1990s and has grown it from a small, one man gig. </p>
+								<p>Jim is the sole proprietor of Tech Audio. He started the shop while working full-time in manufacturing in Holland in the 1990s and has grown it from a small, one-man shop in shared space into the enterprise that is today.</p>
 							</div>
 						</div>
 					</div>
@@ -403,7 +403,7 @@
 								<h3>KEVIN BLACKMER</h3>
 								<div class="team-location">Grand Haven, Michigan</div>
 								<div class="team-position">Installation and Photography</div>
-								<p>Kevin has been working on car electronics and marine audio for more than 15 years. He is also a photograhper--work that shows through in the pictures he takes for Tech Audio.</p>
+								<p>Kevin has been working on car electronics and marine audio for more than 15 years. He is also a photograhper—work that shows through in the pictures he takes for Tech Audio.</p>
 							</div>
 						</div>
 					</div>
@@ -417,7 +417,7 @@
 					<div class="col-lg-12 text-center">
 						<div class="section-title">
 							<h2>Contact Us</h2>
-							<p>If you have some questions or need help, please contact us!<br>You can call us at the number below or drop us line using the box.</p>
+							<p>If you have some questions or need help, please contact us!<br>You can call us at the number below or drop us a line using the box.</p>
 						</div>
 					</div>
 				</div>
@@ -493,7 +493,7 @@
 		</p>
 		<footer>
 			<div class="container text-center">
-				<p>Designed by <a href="https://swaevior.io">swaevior</a> & Developed by <a href="https://xcesiv.io">xcesiv</a></p>
+				<p>Designed by <a href="https://swaevior.github.io">swaevior</a> & developed by <a href="https://github.com/xcesiv">xcesiv</a>.</p>
 			</div>
 		</footer>
 
