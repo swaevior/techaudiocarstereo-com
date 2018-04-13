@@ -260,7 +260,7 @@
 							<img src="images/chevy-malibu-tint.jpg" alt="Late model Chevrolet Malibu with 35% window tint by sb swae for Tech Audio" class="img-responsive" />
 							<figcaption>
 								<h2>Tint Work</h2>
-								<p>40 plus years of experience. Lifetime warranty.</p>
+								<p>40+ years of experience. Lifetime warranty.</p>
 								<a href="#" data-toggle="modal" data-target="#Modal-2">View more</a>
 							</figcaption>
 						</figure>
