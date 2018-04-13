@@ -588,7 +588,7 @@
 					<div class="modal-body">
 						<img src="images/jl-marine-amp-rack.jpg" alt="JL Marine Audio custom amp rack by Kevin Blackmer for Tech Audio" class="img-responsive" />
 						<div class="modal-works"><span>Custom</span><span>Marine Audio</span><span>JL Audio</span></div>
-						<p>On this xx-foot BoatType by Manufacturer, Tech Audio installed Components</p>
+						<p>On this 35-foot Carver, Tech Audio installed a high-powered stereo system all around the boat.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
