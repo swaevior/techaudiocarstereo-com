@@ -426,7 +426,7 @@
 						<h3>Tech Audio</h3>
 						<p>17363 Hayes St, Grand Haven, MI 49417</p>
 						<p><i class="fa fa-phone"></i> <a href="tel:+16168441747">616.844.1747</a></p>
-						<p><i class="fa fa-envelope"></i> jimsaudio@hotmail.com</p>
+						<p><i class="fa fa-envelope"></i> <a href="mailto:jimsaudio@hotmail.com">jimsaudio@hotmail.com</a></p>
 					</div>
 					<div class="col-md-3">
 						<h3>Business Hours</h3>
@@ -583,7 +583,7 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-5">Fast People</h4>
+						<h4 class="modal-title" id="Modal-label-5">Marine Audio Work</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/jl-marine-amp-rack.jpg" alt="JL Marine Audio custom amp rack by Kevin Blackmer for Tech Audio" class="img-responsive" />
@@ -602,7 +602,7 @@
 				<div class="modal-content">
 					<div class="modal-header">
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-						<h4 class="modal-title" id="Modal-label-6">Smart Name</h4>
+						<h4 class="modal-title" id="Modal-label-6">Marine Audio Work II</h4>
 					</div>
 					<div class="modal-body">
 						<img src="images/marine-cans.jpg" alt="Marine audio speaker install by XX for Tech Audio" class="img-responsive" />
