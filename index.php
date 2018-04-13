@@ -424,7 +424,7 @@
 				<div class="row">
 					<div class="col-md-3">
 						<h3>Tech Audio</h3>
-						<p>17363 Hayes St, Grand Haven, MI 49417</p>
+						<p><a href="https://goo.gl/maps/KNtZq2eFs2y">17363 Hayes St, Grand Haven, MI 49417</a></p>
 						<p><i class="fa fa-phone"></i> <a href="tel:+16168441747">616.844.1747</a></p>
 						<p><i class="fa fa-envelope"></i> <a href="mailto:jimsaudio@hotmail.com">jimsaudio@hotmail.com</a></p>
 					</div>
